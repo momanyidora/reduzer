@@ -1,3 +1,6 @@
+// Use appropriate named exports for all classes
+// Create a main application file that imports and uses all three classes
+
 import { Book } from "./book";
 import { Member } from "./member";
 import { LibraryTransaction } from "./transaction";

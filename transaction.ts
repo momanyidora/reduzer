@@ -1,3 +1,5 @@
+
+// Create a LibraryTransaction class in transaction.ts that handles book borrowing and returning
 import { Book } from "./book";
 import { Member } from "./member";
 

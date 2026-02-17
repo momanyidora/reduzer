@@ -21,4 +21,3 @@ export class Book {
   }
 }
 
-// Create a LibraryTransaction class in transaction.ts that handles book borrowing and returning
