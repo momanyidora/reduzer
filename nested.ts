@@ -1,0 +1,11 @@
+namespace App {
+  export namespace Department {
+    export namespace Employee {
+      export interface Manager {}
+      interface Worker {}
+    }
+  }
+}
+
+const manager: App.Department.Employee.Manager ={}
+
